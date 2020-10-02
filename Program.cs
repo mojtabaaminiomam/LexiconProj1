@@ -451,6 +451,7 @@ namespace LexiconProj1
             FightInfo person1 = new FightInfo();
             FightInfo person2 = new FightInfo();
 
+
             Console.WriteLine("PLease Enter Your Name:");
 
 
