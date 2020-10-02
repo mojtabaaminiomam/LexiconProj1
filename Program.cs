@@ -453,6 +453,7 @@ namespace LexiconProj1
 
             Console.WriteLine("PLease Enter Your Name:");
 
+
             person1.name = Console.ReadLine();
 
             Console.WriteLine("PLease Enter Your Fighter Name:");
